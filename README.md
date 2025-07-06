@@ -1,8 +1,16 @@
-Hey there! I’m @co9159x 👋  
+👋 Hi, I’m Chidimma — a Full-Stack Developer and AI Automation Engineer with a background in Information Systems and IT Support. I recently completed my Master’s in Computing and Information Systems at the University of Greenwich.
 
-I’m into coding with AI. it’s pretty cool having a smart assistant that doesn’t judge my typos. 👀 I’m currently figuring out how to use AI tools for coding, and it’s way more fun than memorizing programming languages like learning Spanish verbs. 🌱  
+💡 I build practical tools that solve real problems for businesses. From salon booking systems to contract generators, I use AI, automation, and code to make work smoother and smarter.
 
-I’d be up for collaborating on some small projects—nothing huge, just fun stuff to tinker with. 💞️ Hit me up at tzcaseycutest@gmail.com if you’re interested! 📫  
-Fun fact: a year ago, I knew zilch about coding. Now I’m rolling, and it’s proof coding should be a breeze, not some ancient Greek puzzle. ⚡  
+⚙️ Tech I use:
+React • Firebase • Make.com • n8n • Zapier • OpenRouter AI • Python • JavaScript • Google Sheets • Tailwind
 
-Let’s make something neat! 🚀
+🚀 Projects I’ve built:
+• GMG Hair & Spa – Salon automation and reminders
+• BizSynk – Staff management and attendance tracking app
+• Contrak – Contract generation and email delivery system
+
+🧠 Currently exploring:
+Prompt engineering, AI agents, automation workflows, and vibe coding tools like Cursor, Bolt, and Trae.
+
+📫 Reach me: tzcaseycutest@gmail.com | Portfolio: https://chiport.netlify.app
